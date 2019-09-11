@@ -1,0 +1,22 @@
+{
+  "name": "SnorlaxJason",
+  "version": "0.1.0",
+  "summary": "A short description of SnorlaxJason.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jasoneliann/SnorlaxJason",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jasoneliann": "jasoneliann@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jasoneliann/SnorlaxJason.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SnorlaxJason/Classes/**/*"
+}

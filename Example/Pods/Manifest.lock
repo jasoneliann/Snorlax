@@ -1,0 +1,16 @@
+PODS:
+  - SnorlaxJason (0.1.0)
+
+DEPENDENCIES:
+  - SnorlaxJason (from `../`)
+
+EXTERNAL SOURCES:
+  SnorlaxJason:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnorlaxJason: ab278813bd1cf6c0452c1861c1b8109260acf54b
+
+PODFILE CHECKSUM: 39e19b200664fcda03880050414ded24bba73b41
+
+COCOAPODS: 1.7.5
