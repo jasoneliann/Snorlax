@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SnorlaxJason_Example' do
+  pod 'SnorlaxJason', :path => '../'
+
+  target 'SnorlaxJason_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
